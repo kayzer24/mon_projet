@@ -13,4 +13,5 @@
 ###> symfony/webpack-encore-pack ###
 /node_modules/
 /public/build/
+/.idea/workspace.xml
 ###< symfony/webpack-encore-pack ###
